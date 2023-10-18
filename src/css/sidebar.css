@@ -1,0 +1,33 @@
+:root {
+    --primary: rgb(69, 69, 255);
+    --secondary: white;
+    --primary-text: cornsilk;
+    --secondary-text: black;
+    --gray: rgb(150, 149, 149);
+    --secondary-bg: rgb(14, 13, 13);
+}
+
+.sidebar{
+    position: fixed;
+    background-color: rgb(12, 10, 19);
+}
+
+.logo {
+    width: 40px;
+    height: auto;
+    margin: 20px 10px;
+}
+#logo{
+    color: rgb(69, 69, 255);
+}
+
+.nav-menu {
+    cursor: pointer;
+    transition: all 0.5s;
+    text-decoration: none;
+    color: aliceblue;
+}
+.nav-menu:hover{
+    color: rgb(69, 69, 255);
+}
+

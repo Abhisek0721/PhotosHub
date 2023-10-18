@@ -1,0 +1,22 @@
+:root {
+    --primary: rgb(69, 69, 255);
+    --secondary: white;
+    --primary-text: cornsilk;
+    --secondary-text: black;
+}
+
+#header {
+    position: fixed;
+    padding: 0 50px;
+    background-color: rgb(12, 10, 19);
+}
+
+.btn-bg {
+    background-color: var(--secondary);
+    color: var(--secondary-text);
+}
+.header-btn {
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-size: large;
+}

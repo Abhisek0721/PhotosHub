@@ -1,0 +1,12 @@
+.input-field-container{
+    margin: 30px 0;
+}
+
+.input-field{
+    width: 25rem;
+    border: 1px solid black;
+}
+
+.input-label{
+    font-weight: 600;
+}

@@ -1,0 +1,126 @@
+{
+    "layout": "5",
+    "type": "MUSIC",
+    "key": "501844142",
+    "title": "Keeps Me Alive",
+    "subtitle": "Moses Sumney",
+    "share": {
+        "subject": "Keeps Me Alive - Moses Sumney",
+        "text": "I used Shazam to discover Keeps Me Alive by Moses Sumney.",
+        "href": "https://www.shazam.com/track/501844142/keeps-me-alive",
+        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/25/91/4c/25914c1a-f147-e093-8e0c-5ed380575c6f/dj.sdqskeyt.jpg/400x400cc.jpg",
+        "twitter": "I used @Shazam to discover Keeps Me Alive by Moses Sumney.",
+        "html": "https://www.shazam.com/snippets/email-share/501844142?lang=en-US&country=US",
+        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/6f/64/45/6f6445a1-2b83-ad91-9c20-c0ff4e89cf8b/pr_source.png/800x800cc.jpg",
+        "snapchat": "https://www.shazam.com/partner/sc/track/501844142"
+    },
+    "images": {
+        "background": "https://is2-ssl.mzstatic.com/image/thumb/Features114/v4/6f/64/45/6f6445a1-2b83-ad91-9c20-c0ff4e89cf8b/pr_source.png/800x800cc.jpg",
+        "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/25/91/4c/25914c1a-f147-e093-8e0c-5ed380575c6f/dj.sdqskeyt.jpg/400x400cc.jpg",
+        "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/25/91/4c/25914c1a-f147-e093-8e0c-5ed380575c6f/dj.sdqskeyt.jpg/400x400cc.jpg",
+        "joecolor": "b:190304p:eccec6s:dabecdt:c1a59fq:b398a5"
+    },
+    "hub": {
+        "type": "APPLEMUSIC",
+        "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+        "actions": [
+            {
+                "name": "apple",
+                "type": "applemusicplay",
+                "id": "1485412188"
+            },
+            {
+                "name": "apple",
+                "type": "uri",
+                "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/7c/09/e3/7c09e30a-db4a-fe05-b4b1-14cedce9035a/mzaf_6123434045560156085.plus.aac.ep.m4a"
+            }
+        ],
+        "options": [
+            {
+                "caption": "OPEN",
+                "actions": [
+                    {
+                        "name": "hub:applemusic:deeplink",
+                        "type": "applemusicopen",
+                        "uri": "https://music.apple.com/us/album/keeps-me-alive/1485411511?i=1485412188&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                        "name": "hub:applemusic:deeplink",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/us/album/keeps-me-alive/1485411511?i=1485412188&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ],
+                "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                },
+                "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                "type": "open",
+                "listcaption": "Open in Apple Music",
+                "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                "colouroverflowimage": false,
+                "providername": "applemusic"
+            },
+            {
+                "caption": "BUY",
+                "actions": [
+                    {
+                        "type": "uri",
+                        "uri": "https://itunes.apple.com/us/album/keeps-me-alive/1485411511?i=1485412188&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                ],
+                "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                },
+                "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                "type": "buy",
+                "listcaption": "Buy on iTunes",
+                "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                "colouroverflowimage": false,
+                "providername": "itunes"
+            }
+        ],
+        "providers": [
+            {
+                "caption": "Open in Spotify",
+                "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                },
+                "actions": [
+                    {
+                        "name": "hub:spotify:searchdeeplink",
+                        "type": "uri",
+                        "uri": "spotify:search:Keeps%20Me%20Alive%20Moses%20Sumney"
+                    }
+                ],
+                "type": "SPOTIFY"
+            },
+            {
+                "caption": "Open in Deezer",
+                "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                },
+                "actions": [
+                    {
+                        "name": "hub:deezer:searchdeeplink",
+                        "type": "uri",
+                        "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Keeps+Me+Alive%27%20artist%3A%27Moses+Sumney%27%7D"
+                    }
+                ],
+                "type": "DEEZER"
+            }
+        ],
+        "explicit": false,
+        "displayname": "APPLE MUSIC"
+    },
+    "artists": [
+        {
+            "id": "42",
+            "adamid": "843536848"
+        }
+    ],
+    "url": "https://www.shazam.com/track/501844142/keeps-me-alive"
+}
